@@ -1,0 +1,8 @@
+{
+  "initiator_whitelist": {
+    "description": "允许发起、提前结束、取消和查询保密统计的 QQ 用户白名单",
+    "type": "list",
+    "default": [],
+    "hint": "填写 QQ 号字符串，如 123456789。白名单对所有接入群生效；群主、群管理员及 AstrBot 管理员默认具备相同权限。"
+  }
+}
