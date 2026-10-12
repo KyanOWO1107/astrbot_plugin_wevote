@@ -3,4 +3,4 @@ display_name: WeVote 群投票
 desc: QQ 群聊投票，支持发起权限、单选多选、改票、公开或保密结果及到期结算。
 version: v0.1.0
 author: Kyan
-repo: ""
+repo: "https://github.com/KyanOWO1107/astrbot_plugin_wevote"
